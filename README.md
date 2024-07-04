@@ -26,4 +26,24 @@ Before you begin, ensure you have the following prerequisites:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Sstarji/E-learning-Platform.git
+
+2. Open the project in your preferred text editor.
+3. Launch the `index.html` file in a web browser.
+
+## Technologies Used
+
+- HTML
+- CSS
+- Bootstrap 5
+- JavaScript
+
+📱 Moreover, I've ensured that the website is fully responsive on all screens, making it accessible and user-friendly across various devices. 📱💡
+
+## Show your support 
+
+Give a ⭐️ if you like this project!
+
+# Demo Video :
+
+
